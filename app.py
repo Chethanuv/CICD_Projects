@@ -1,3 +1,5 @@
+#Simple flask app to test the deployment on Azure AKS
+
 from flask import Flask
 
 app = Flask(__name__)
